@@ -1,0 +1,13 @@
+title: Four Corners Science and Computing Club
+email: greg.caporaso@nau.edu
+description: >-
+  Four Corners Science and Computing Club (4CSCC)
+domain: four-corners-scientific-computing.org
+baseurl: ""
+url: https://four-corners-scientific-computing.org
+github_username:  4cscc
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
