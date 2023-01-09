@@ -3,6 +3,7 @@ layout: post
 title:  "4CSCC weather monitoring at Townsite Urban Farm"
 date:   2022-12-31
 categories: announcements
+author: Greg Caporaso
 ---
 
 Two Raspberry Pi Pico Ws have been deployed as prototypes at [Townsite Urban Farm (TUF)](https://townsite.farm) and are currently reporting Temperature, Pressure, and Humdity from two locations to the [Initial State](https://iot.app.initialstate.com/#/) IoT service.

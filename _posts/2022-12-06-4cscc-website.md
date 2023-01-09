@@ -3,6 +3,7 @@ layout: post
 title:  "4CSCC website"
 date:   2022-12-06 13:48:42 -0700
 categories: announcements
+author: Greg Caporaso
 ---
 The Four Corners Science and Computing Club (4CSCC) website is now live at [https://four-corners-scientific-computing.org](https://four-corners-scientific-computing.org).
 

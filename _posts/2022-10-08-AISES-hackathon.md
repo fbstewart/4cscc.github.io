@@ -3,6 +3,7 @@ layout: post
 title:  "AISES College Hackathon, 2022"
 date:   2022-10-08
 categories: announcements
+author: Greg Caporaso
 ---
 
 The Four Corners Science and Computing Club led the [AISES](https://www.aises.org/) College Hackathon at the 2022 AISES National Conference. During this event, students spent two hours learning the basics of physical computing, wiring up computer hardware, and writing code to collect data from the environment through hands-on exercises with the [4CSCC Raspberry Pi 400 kits](https://four-corners-scientific-computing.org/lab-manual/lessons/kit-assembly-1/lesson.html).
