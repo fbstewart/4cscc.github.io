@@ -1,4 +1,5 @@
 ---
+title: Friends of 4CSCC
 ---
 # Friends of 4CSCC
 4CSCC is fortunate to build such a wonderful network of professionals throughout the Four Corners.  Our team collaborates with numerous organizations. Take a moment to learn more about our friends of 4CSCC.
