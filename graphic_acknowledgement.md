@@ -6,8 +6,8 @@ categories: [logo, contribution, 4cscc]
 author: Jeff Meilander
 ---
 
-The Four Corners Science and Computing Club wants to give a big thanks to (Duane
-Koyawena)[https://www.dkoyawenaarts.com/] for designing the new 4CSCC graphic. It combines elements of cultural
+The Four Corners Science and Computing Club wants to give a big thanks to [Duane
+Koyawena](https://www.dkoyawenaarts.com/) for designing the new 4CSCC graphic. It combines elements of cultural
 importance such as agriculture (corn, beans, squash), the Colorado River, and
 the four corners states (Arizona, New Mexico, Colorado, and Utah) with
 microchips, scientific computing, and environmental data collection. It is our
