@@ -4,7 +4,6 @@ title:  "Graphic Acknowledgement"
 date:   2022-06-27
 categories: [logo, contribution, 4cscc]
 author: Jeff Meilander
-exclude: true
 ---
 
 The Four Corners Science and Computing Club wants to give a big thanks to [Duane
