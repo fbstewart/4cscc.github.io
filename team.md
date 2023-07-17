@@ -87,4 +87,11 @@ Undergraduate Student<br>
 Departments of Chemistry and Biomedical Science<br>
 Northern Arizona University
 
+<hr><br>
+![](/images/team/tracey.png)<br>
+Tracey Begaye<br>
+Graduate Student<br>
+B.S. in Computer Engineering<br>
+Pursuing M.S. in Forestry<br>
+Northern Arizona University
 
