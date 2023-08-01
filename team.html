@@ -1,0 +1,75 @@
+---
+layout: page
+title: Team
+permalink: /team/
+---
+<div class='team'>
+    {% for person in site.data.leadership %}
+    <div class='person'>
+    {% if person.pic %}
+        <img src='/assets/team/{{ person.pic }}'/>
+    {% else %}
+        <a class='fa fa-user-secret' title='{{ person.name }} is too cool for a picture :-(' style='font-size: 200px; text-decoration:none;'></a>
+    {% endif %}
+        <ul class='details'>
+            <li class='details__attribute details--name'>{{ person.name }}</li>
+            <li class='details__attribute details--title'>{{ person.title }}</li>
+            <li>{{ person.institution }}</li>
+            {% if person.cv %}
+                <a href="{{ person.cv }}" target='_blank' title="{{person.name}}'s Curriculum Vitae"><i class="fa fa-graduation-cap"></i></a>
+            {% endif %}
+            {% if person.twitter %}
+                <a href="https://twitter.com/{{person.twitter}}" target='_blank' title="{{person.name}}'s Twitter"><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            {% if person.github %}
+                <a href="https://github.com/{{person.github}}" target='_blank' title="{{person.name}}'s GitHub"><i class="fa fa-github"></i></a>
+            {% endif %}
+            {% if person.site %}
+                <a href="{{person.site}}" target='_blank' title="{{person.name}}'s Website'"><i class="fa fa-link"></i></a>
+            {% endif %}
+            </li>
+            {% if person.interests %}
+            <li class='details__attribute details--interests'>
+            {% for interest in person.interests %}
+                <span class='attribute__interest'>{{interest}}</span><br />
+            {% endfor %}
+            </li>
+            {% endif %}
+        </ul>
+    </div>
+    {% endfor %}
+    <span class='team__stretch'></span>
+</div>
+
+<h1>Student Assistants</h1>
+
+<div class='team'>
+    {% for person in site.data.student_assistants %}
+    <div class='person'>
+    {% if person.pic %}
+        <img src='/assets/team/{{ person.pic }}'/>
+    {% else %}
+        <a class='fa fa-user-secret' title='{{ person.name }} is too cool for a picture :-(' style='font-size: 200px; text-decoration:none;'></a>
+    {% endif %}
+        <ul class='details'>
+            <li class='details__attribute details--name'>{{ person.name }}</li>
+            <li class='details__attribute details--title'>{{ person.title }}</li>
+            <li>{{ person.institution }}</li>
+            {% if person.cv %}
+                <a href="{{ person.cv }}" target='_blank' title="{{person.name}}'s Curriculum Vitae"><i class="fa fa-graduation-cap"></i></a>
+            {% endif %}
+            {% if person.twitter %}
+                <a href="https://twitter.com/{{person.twitter}}" target='_blank' title="{{person.name}}'s Twitter"><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            {% if person.github %}
+                <a href="https://github.com/{{person.github}}" target='_blank' title="{{person.name}}'s GitHub"><i class="fa fa-github"></i></a>
+            {% endif %}
+            {% if person.site %}
+                <a href="{{person.site}}" target='_blank' title="{{person.name}}'s Website'"><i class="fa fa-link"></i></a>
+            {% endif %}
+            </li>
+        </ul>
+    </div>
+    {% endfor %}
+    <span class='team__stretch'></span>
+</div>

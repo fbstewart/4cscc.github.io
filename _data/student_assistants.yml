@@ -1,0 +1,36 @@
+# # Student assistants
+
+- name: Franklin Stewart
+  title: Master's Student, Organizational Leadership
+  institution: Northern Arizona University
+  pic: franklin.jpg
+
+- name: Macie Proctor
+  title: Undergraduate Student
+  institution: Department of Biological Sciences, Northern Arizona University
+  pic: macie.jpg
+
+- name: Kaelyn Acothely, BS
+  title: CARE Program Coordinator
+  institution: Northern Arizona University
+  pic: kaelyn.jpg
+
+- name: Anthony Simard, Master's Student
+  title: Research Software Engineer, Department of Computer Science, Caporaso Lab
+  institution:  Northern Arizona University
+  pic: anthony.png
+
+- name: Chloe Herman, PhD Student
+  title: Bioinformatics - Caporaso Lab
+  institution:  Northern Arizona University
+  pic: chloe.png
+
+- name: Tulsi Patel
+  title: Undergraduate Student, Departments of Chemistry and Biomedical Science
+  institution: Northern Arizona University
+  pic: tulsi.jpg
+
+- name: Tracey Begaye
+  title: Graduate Student, B.S. in Computer Engineering, M.S. in Forestry
+  institution: Northern Arizona University
+  pic: tracey.png
