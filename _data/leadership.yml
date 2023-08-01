@@ -1,0 +1,46 @@
+# # required:
+# - name: Your Name
+#   title: Your Position
+# # optional, but recommended:
+# # picture should be 200x200px
+# # put it in /assets/team/your-name.png
+#   pic: yourface.png
+#   twitter: yourtwitter
+#   github: yourgithub
+#   site: http://example.com
+#   cv: http://example.com/my-cv.pdf
+#   interests:
+#       - Thing 1
+#       - Thing 2
+#       - Thing 3
+# Leadership
+- name: Greg Caporaso, PhD
+  title: Professor of Biological Sciences and Computer Science
+  institution: Northern Arizona University
+  pic: greg.jpg
+
+- name: Jani Ingram, PhD
+  title: Regents' Professor of Chemistry and Biochemistry
+  institution: Northern Arizona University
+  pic: jani.jpg
+
+- name: Joslynn Lee, PhD
+  title: Assistant Professor of Chemistry and Biochemistry
+  institution: Fort Lewis College
+  pic: joslynn.png
+
+
+- name: Naomi Lee, PhD, CPH
+  title: Assistant Professor of Chemistry and Biochemistry
+  institution: Northern Arizona University
+  pic: naomi.jpg
+
+- name: Jeff Meilander
+  title: PhD Student, Caporaso Lab
+  institution: Department of Biological Sciences, Northern Arizona University
+  pic: jeff.png
+
+- name: Mansel Nelson
+  title: Program Manager
+  institution: Institute for Tribal Environmental Professionals, Northern Arizona University
+  pic: mansel.jpg
