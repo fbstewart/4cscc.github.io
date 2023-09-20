@@ -1,0 +1,13 @@
+---
+layout: page
+title: Student Projects
+permalink: /student-projects/
+---
+<div class="student-projects">
+    {% for project in site.data.student_projects %}
+    <div class="project">
+    <a href="{{project.url}}"> {{project.name}} </a>
+
+    </div>
+    {% endfor %}
+</div>
