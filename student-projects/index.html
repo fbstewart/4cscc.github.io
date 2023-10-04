@@ -6,6 +6,7 @@ permalink: /student-projects/
 <div class="student-projects">
     {% for project in site.data.student_projects %}
     <div class="project">
+    <img src="{{project.pic}}"> </img>
     <a href="{{project.url}}"> {{project.name}} </a>
 
     </div>

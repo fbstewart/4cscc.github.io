@@ -1,6 +1,7 @@
 - name: Alicia
   url: alicia
-  pic: alicia.png
+  pic: /assets/team/alicia.png
+  description: 
 
 - name: Kayden
   url: kayden
