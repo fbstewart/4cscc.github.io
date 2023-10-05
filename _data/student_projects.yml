@@ -11,3 +11,8 @@
   url: tracey
   pic: /assets/team/tracey.png
   description: Forestry
+
+- name: Franklin
+  url: franklin
+  pic: /assets/team/franklin.jpg
+  description: Data Science
