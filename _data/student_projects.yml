@@ -1,7 +1,7 @@
 - name: Alicia
   url: alicia
   pic: /assets/team/alicia.png
-  description: 
+  description: Environmental Science
 
 - name: Kayden
   url: kayden
@@ -9,4 +9,5 @@
 
 - name: Tracey
   url: tracey
-  pic: tracey.png
+  pic: /assets/team/tracey.png
+  description: Forestry
