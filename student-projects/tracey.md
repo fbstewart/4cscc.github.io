@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student-projects
 title: Tracey's Project
 permalink: /student-projects/tracey
 ---
