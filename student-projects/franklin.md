@@ -3,7 +3,8 @@ layout: page
 title: Franklin's Project
 permalink: /student-projects/franklin
 ---
-![Franklin](assets/team/franklin.jpg)
+
+{% include project-gallery.html folder="/student-projects/franklin" %}
 
 Hello, my name is Franklin Stewart, I am a graduate student at Northern Arizona University, hailing from the Navajo Nation (Kayenta, AZ).  While working with 4CSCC for the last year, I have gained professional skills when developing software, leading multiple environmental education and STEM workshops focused on scientific computing. My involvement with 4CSCC has helped me jump start my career by utilizing my areas of study in Technology Management (BBA) and Organizational Leadership (MOL).  This opportunity enables me to give back to the Navajo/Dine tribe.  
 My initial project with 4CSCC was to develop and utilize a weather station that collects wind speed, wind direction, and rainfall data.  This project was developed with the help of my fellow colleagues, from the Caporaso at NAU.  Data is collected and used on a Raspberry Pi Pico W.  The coding developed for my project has been integrated into other 4CSCC student projects (link Alicia and Tracey’s project) focusing on air quality.  Our plan is to have a fully functioning weather stations for remote use.  My favorite topics throughout the project were using software developer tools and practices with Visual Studio, GitHub, Jekyll, and Docker.  

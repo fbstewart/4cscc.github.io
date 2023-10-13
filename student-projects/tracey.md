@@ -2,8 +2,11 @@
 layout: student-projects
 title: Tracey's Project
 permalink: /student-projects/tracey
+img_dir: /student-projects/tracey/img/
 ---
 ![Tracey](/assets/student-projects/tracey/tracey.png)
+
+{% include project-gallery.html folder="/student-projects/tracey" %}
 
 My name is Tracey Begaye. I am a part of the Navajo Tribe from Gallup, New Mexico. I previously studied Computer Engineering for my undergraduate because I like solving challenging problems. I am currently pursuing a master’s in forestry to improve inclusion in forestry, especially in serving Native American communities.
 I integrated two data sensor kits for workshops run by the Four Corners Science and Computing Club (4CSCC). I 3D printed a Stevenson Shield, an instrument shelter, to prevent damage to the power and air quality monitoring sensors that will be attached to a weather station. I also worked with the weather kit that integrates scientific computing into the classroom.
