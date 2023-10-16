@@ -4,6 +4,7 @@
   description: Environmental Science
   project-photos: /student-projects/alicia/img
   text: /student-projects/alicia/text.txt
+  education: Coconino HS Senior
 
 # - name: Kayden
 #   url: kayden
@@ -13,8 +14,10 @@
   url: tracey
   pic: /assets/team/tracey.png
   description: Forestry
+  education: MS
 
 - name: Franklin
   url: franklin
   pic: /assets/team/franklin.jpg
   description: Data Science
+  education: MS
