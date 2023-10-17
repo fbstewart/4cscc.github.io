@@ -11,6 +11,7 @@ permalink: /student-projects/
     }
 
 </style>
+
 <div class='student-projects'>
     {% for project in site.data.student_projects %}
     <div class='person'>
@@ -18,6 +19,8 @@ permalink: /student-projects/
     <a>  </a>
     <ul class='details'>
         <li>{{project.name}} - {{ project.education }}</li>
+<!-- TODO: format text size of date-->
+        <li>{{ project.dates }}</li>
         <li>{{ project.description }}</li>
         <li><a href="{{project.url}}"> Read about {{project.name}}'s project here.</a></li>
     </ul>
