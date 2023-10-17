@@ -5,6 +5,7 @@
   project-photos: /student-projects/alicia/img
   text: /student-projects/alicia/text.txt
   education: Coconino HS Senior
+  dates: 2022-2023
 
 # - name: Kayden
 #   url: kayden
@@ -15,9 +16,11 @@
   pic: /assets/team/tracey.png
   description: Forestry
   education: MS
+  dates: '2023'
 
 - name: Franklin
   url: franklin
   pic: /assets/team/franklin.jpg
   description: Data Science
   education: MS
+  dates: 2022-2023
