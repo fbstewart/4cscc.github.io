@@ -35,12 +35,10 @@
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
          <div class="gallery-item">
-          <a href="{{ page.img_dir }}{{ filename }}" title="{{ filename }}">
             <img src="{{ page.permalink }}/img/{{ filename }}.png?w=220&h=220&fit=crop"
                  alt="{{ filename }}"
                  title="{{ filename }}"
                  class='gallery-image'/>
-          </a>
          </div>
         {% endif %}
       {% endif %}
