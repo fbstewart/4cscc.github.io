@@ -2,7 +2,8 @@
   url: alicia
   pic: /assets/team/alicia.png
   description: Environmental Science
-  project-photos: /student-projects/alicia/
+  project-photos: /student-projects/alicia/img
+  text: /student-projects/alicia/text.txt
 
 # - name: Kayden
 #   url: kayden
