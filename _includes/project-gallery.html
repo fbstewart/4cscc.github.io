@@ -1,3 +1,4 @@
+<!--TODO: at some point refactor into global configs.-->
 <style>
 .gallery {
   display: grid;
@@ -29,16 +30,15 @@
     {% assign sorted = site.static_files | sort: 'date' %}
     {% for file in sorted %}
     {% if file.path contains include.folder %}
+    <!--TODO: add '.jpg' and other JPEG extensions-->
     {% if file.extname == '.png' %}
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
          <div class="gallery-item">
-          <a href="{{ page.img_dir }}{{ filename }}" title="{{ filename }}">
             <img src="{{ page.permalink }}/img/{{ filename }}.png?w=220&h=220&fit=crop"
                  alt="{{ filename }}"
                  title="{{ filename }}"
                  class='gallery-image'/>
-          </a>
          </div>
         {% endif %}
       {% endif %}

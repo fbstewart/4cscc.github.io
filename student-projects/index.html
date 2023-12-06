@@ -3,13 +3,26 @@ layout: page
 title: Student Projects
 permalink: /student-projects/
 ---
+<style>
+    li a {
+        color: #000;
+        font-size: 0.7rem;
+
+    }
+
+</style>
+
 <div class='student-projects'>
     {% for project in site.data.student_projects %}
     <div class='person'>
     <img src='{{project.pic}}'> </img>
-    <a href='{{project.url}}'> {{project.name}} </a>
+    <a>  </a>
     <ul class='details'>
+        <li>{{project.name}} - {{ project.education }}</li>
+<!-- TODO: format text size of date-->
+        <li>{{ project.dates }}</li>
         <li>{{ project.description }}</li>
+        <li><a href="{{project.url}}"> Read about {{project.name}}'s project here.</a></li>
     </ul>
     </div>
     {% endfor %}
