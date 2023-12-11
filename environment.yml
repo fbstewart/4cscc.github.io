@@ -1,0 +1,7 @@
+name: 4web
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ruby<2.6
+  - rb-jekyll
