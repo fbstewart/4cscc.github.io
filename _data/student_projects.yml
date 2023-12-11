@@ -7,9 +7,13 @@
   education: Coconino HS Senior
   dates: 2022-2023
 
-# - name: Kayden
-#   url: kayden
-#   pic: kayden.png
+- name: Kayden
+  url: kayden
+  pic: /images/4cscc-art-1.jpg
+  description: Electrical Engineering
+  project-photos: /student-projects/kayden/img
+  education: BS
+  dates: '2023'
 
 - name: Tracey
   url: tracey
