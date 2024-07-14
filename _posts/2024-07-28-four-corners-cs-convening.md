@@ -11,7 +11,8 @@ The 4 Corners Computer Science Convening is a three-day conference – June 23 t
 ## Presentation Day
 On Monday, June 24, 4CSCC members Franklin, Jeff, and Simon presented a two-hour session highlighting physical computing as a gateway to scientific computing. See more information about our event here.  Our audience consisted of computer science educators, primarily from Native American communities.  We began our presentation by outlining shared insights into our program and recent collaborations in the Four Corners region.  Our role modeling of Socratic questioning focused on a slide that contained an image of a chemical spill outside of Tucson, Arizona. This activity effectively stimulated interest and critical thinking as participants analyzed the image and brainstormed ways to figure out its context.
 
-{% include project-gallery.html folder="/images/2024-07-28-four-corners-cs-convening" %}
+
+{% include event-gallery.html folder="/images/2024-07-28-four-corners-cs-convening" %}
 
 ![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image2.jpg)
 ![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image3.jpg)
