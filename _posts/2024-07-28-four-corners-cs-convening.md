@@ -27,7 +27,6 @@ As mentioned, each morning featured various speakers followed by various CS sess
 
 ![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image4.png)
 
-![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image5
+![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image5.png)
 
-.png)
 ![4Corners CS Convening](/images/2024-07-28-four-corners-cs-convening/image6.png)
